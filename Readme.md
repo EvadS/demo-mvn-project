@@ -10,6 +10,7 @@ mvn clean package
 ## Run jar ****
 ## Run 
 
+
 ```bash
- 
+ java -jar target/app.jar
 ```
